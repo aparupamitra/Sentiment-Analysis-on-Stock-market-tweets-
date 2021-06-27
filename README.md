@@ -7,6 +7,7 @@ Here I have carried out below process:
 3. Tokeninzation on text data
 4. Stemming of tokenized data
 5. Lemmatization of tokenized data
-6. Modelling using VADER model
-7. Other Machine language model such as logistic regression ,SVM ,Randon forest ,Naive Bayes,SGD
-8. Comparison of models
+6. Removal of stopwords from text
+7. Modelling using VADER model
+8. Other Machine language model such as logistic regression ,SVM ,Randon forest ,Naive Bayes,SGD
+9. Comparison of models
